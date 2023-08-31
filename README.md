@@ -1,18 +1,39 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+    <h1 align="center">HELLO 👉👈, I AM ROBERTO CARLOS🤙</h1>
+    <h3 align="center">I am passionate about programming and music lover 🎧💻</h3>
+</div>
+
+<div id="badges" align="center">
+    <a href="https://twitter.com/RCarlosOC?t=KxIGPgFW5nik9yUk3ZEc5Q&s=09" target="_blank">
+        <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FRCarlosOC%3Ft%3DKxIGPgFW5nik9yUk3ZEc5Q%26s%3D09&label=RCarlosOC
+        " alt="">
+    </a>
+</div>
+
 ---
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...fsd
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### About me : 🙋‍♂️
+
+- 🌱 I am currently learning web design
+- 💬 Ask me about programming or movies
+- 📫 How to contact me: X and Facebook
+
 ---
 
-<!--
-**rcarlos7/rcarlos7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+    <h3>Languages and Tools  📱🔨</h3>
+    <div>
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
+    </div>
+</div>
 
-Here are some ideas to get you started:
+---
 
+### My Stats : 📊
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rcarlos7&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 

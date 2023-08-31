@@ -5,7 +5,9 @@
 </div>
 
 <div id="badges" align="center">
-    <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FRCarlosOC%3Ft%3DKxIGPgFW5nik9yUk3ZEc5Q%26s%3D09">
+    <a href="https://twitter.com/RCarlosOC?t=KxIGPgFW5nik9yUk3ZEc5Q&s=09">
+        <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FRCarlosOC%3Ft%3DKxIGPgFW5nik9yUk3ZEc5Q%26s%3D09">
+    </a>
 </div>
 
 ---
